@@ -1,0 +1,7 @@
+private_key: "{{ PRIVATE_KEY }}"
+gas: 3000000
+gas_price: 1 gwei
+value: 0
+contract_bin: "./Test.bin"
+chain_id: 80001
+node: https://rpc-mumbai.matic.today

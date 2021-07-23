@@ -1,0 +1,8 @@
+addresses: |
+  {{ACC_1}}
+
+nodes: |
+  https://rpc-mumbai.matic.today
+
+
+check_etherscan_token_usd: false
